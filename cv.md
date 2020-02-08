@@ -4,7 +4,7 @@ Front End Developer
 
 ## Contacts
 
-- Phone: +375256573217
+- Phone: +375 25 657 32 17
 - Mail: newnewqwes@gmail.com
 - Github: @newqwes
 
@@ -27,7 +27,7 @@ No have work experience. I’m self-taught, and I do projects on lessons.
 
 ## Code examples
 
-I tried to write a roulette game myself
+I tried to write a roulette game myself:
 
 ```
 let myMoney = prompt("Введите количество ваших денег:");
