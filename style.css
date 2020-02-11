@@ -1,0 +1,11 @@
+body {
+    width: 1024px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+header {
+    text-align: center;
+}
+img {
+    border-radius: 100%;
+}
