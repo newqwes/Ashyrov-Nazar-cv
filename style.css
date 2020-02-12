@@ -1,11 +1,33 @@
 body {
     width: 1024px;
-    margin: auto;
-    font-family: 'Roboto', sans-serif;
+    margin: 3em auto;
+    font-family: 'Montserrat', sans-serif;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    display: grid;
 }
 header {
-    text-align: center;
+    background-color: #3c3c3e;
+}
+header h1 {
+    color: #ffffff;
+}
+header h3 {
+    color: #898a8e;
 }
 img {
     border-radius: 100%;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+}
+
+textarea {
+    background-color: #fffef0;
+    margin: 2% 5%;
+    resize: none;
+    width: 90%;
+    height: 200px;
+}
+.title {
+    display: inline-block;
 }
