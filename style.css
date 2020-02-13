@@ -6,6 +6,18 @@ body {
     display: grid;
     grid-template-columns: 1fr 2fr;
     color: #a0a0a3;
+    opacity:0; /*Элемент полностью прозрачный (невидимый)*/
+    transition: 1.5s; /*Скорость перехода состояния элемента*/
+    animation: show 1.5s 1; /* Указываем название анимации, её время и количество повторов*/
+    animation-fill-mode: forwards; /* Чтобы элемент оставался в конечном состоянии анимации */
+}
+@keyframes show{
+    0%{
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
 }
 
 header {
