@@ -1,46 +1,50 @@
 # Ashyrov Nazar
 
-JavaScript Frontend Developer with main focus in React.
+JavaScript Full-stack Developer with a main focus on React, Angular, and Node.js.
 
 ## Contacts
 
-- Phone: +375 33 363 79 70
+- Phone: +48 571 579 950
 - Mail: newnewqwes@gmail.com
-- Github: @newqwes
+- Github: [@newqwes](https://github.com/newqwes)
 
 ## Objective
 
-Enjoy learning new technologies.
+Enjoy learning new technologies and solving complex problems with efficient and scalable solutions.
 
 ## Work Experience
 
-1.5 years of professional experience.
+5 years of professional experience in frontend and backend development.
+
+### Recent Projects
+
+- **Autograph Authentic** (Aug 2023 - Now)
+    - Comprehensive web platform for auctions and store for authenticated memorabilia.
+    - **Technologies:** TypeScript, Angular, Node.js, Express, PostgreSQL, AWS, Jenkins, Jest, Mocha, Material.
+
+- **Crypto Wallet Analytics** (Jun 2021 - Now)
+    - Web application for analyzing cryptocurrency deposits with up-to-date data and visualizations.
+    - **Technologies:** JavaScript, React, Redux, Redux-saga, Ag-Grid, Apexcharts, Node.js, Express, PostgreSQL.
+
+- **JIRA-API Integration** (Apr 2021 - Aug 2021)
+    - Interaction with JIRA API for building reports and exporting them to “xlsx” format.
+    - **Technologies:** JavaScript, React, Redux, Redux-saga, Docker, GitLab CI.
 
 ## Technical Skills
 
-- HTML & CSS
-- Bootstrap
-- JS, JQuery, Node.js
-- Gulp, NPM/Yarn, Webpack, Babel, Git/Git Flow
-- SASS, Styled-Components, Material UI, Ant Design
-- PostgreSQL, Sequelize, Knex
-- React, Redux, Redux-Saga, Next.js
-- Docker, Nginx
-- Swagger
-- ESLint, Prettier
-- GitLab CI
-- Jest, Enzyme
-- REST, Axios
-- PHP
-
-## Code examples
-
-[One of the works](https://github.com/newqwes/Store)
+- **Frontend:** HTML, CSS, SCSS/SASS, Bootstrap, React, Angular, Redux, Redux-Saga, Next.js, Material UI, Ant Design, Styled-Components
+- **Backend:** Node.js, Express, Koa.js
+- **Databases:** PostgreSQL, Sequelize, Knex
+- **DevOps:** Docker, Nginx, GitLab CI, Jenkins, GitHub Actions
+- **Testing:** Jest, Enzyme, Mocha, Puppeteer
+- **Tools & Utilities:** Gulp, NPM/Yarn, Webpack, Babel, Git/Git Flow, ESLint, Prettier, Swagger
+- **Languages:** JavaScript (TypeScript), PHP
+- **APIs:** REST, Axios
 
 ## Education
 
-I graduated from the GRSU, specialty: computer security.
+Graduated from the Yanka Kupala State University of Grodno, specialty: Computer Security (Mathematical Methods and Software Systems).
 
 ## English
 
-Courses Mr.English Level B1
+Intermediate (B1) - Completed courses at Mr.English.
